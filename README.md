@@ -1,13 +1,13 @@
 # IPL-Data-Analysis-jupyternote-
 
- **IPL Data Analysis 2008-2024**  [IPL Player Stats]() 
+ **IPL Data Analysis 2008-2024**  [IPL Analysis](https://github.com/AMRrah/IPL-Data-Analysis-jupyternote-/blob/main/IPLanalysis01.ipynb) 
  # Overview 
  This project is a Ipl data analyzing of the Indian Premier League (IPL) 2008-2024 season. It provides actionable insights into team performance, player statistics like total matches, balls faced by the players, total runs and total of player dismissed from the matches and more that will be displayed in the form of tables, list, bar chart and pie chart with the help of advanced data visualization techniques to present clear and meaningful results.
 <hr>
 
  # Dataset
  ## This Project uses IPL(2008-2024) Matches Dataset
-   This dataset provides summary-level information about each IPL match.-[Dataset]()
+   This dataset provides summary-level information about each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Data-Analysis-jupyternote-/blob/main/matches.csv)
  ### Columns:   
  1. **match_id**       : Unique identifier for each match.
  2. **season**         : Year of the IPL season.
@@ -27,7 +27,7 @@
  - Studying trends in IPL seasons over the years.
 
 ## This project uses another dataset IPL(2008-2024) Deliveries Dataset
-   This dataset provides ball-by-ball details of each IPL match.-[Dataset]()
+   This dataset provides ball-by-ball details of each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Data-Analysis-jupyternote-/blob/main/deliveries.csv)
 
 ### Columns:
  1. **match_id**        : Identifier linking to the matches dataset.
