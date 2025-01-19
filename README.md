@@ -2,7 +2,7 @@
 
  **IPL Data Analysis 2008-2024**  [IPL Analysis](https://github.com/AMRrah/IPL-Data-Analysis-jupyternote-/blob/main/IPLanalysis01.ipynb) 
  # Overview 
- This project is a Ipl data analyzing of the Indian Premier League (IPL) 2008-2024 season. It provides actionable insights into team performance, player statistics like total matches, balls faced by the players, total runs and total of player dismissed from the matches and more that will be displayed in the form of tables, list, bar chart and pie chart with the help of advanced data visualization techniques to present clear and meaningful results.
+ This project is a Ipl data analyzing of the Indian Premier League (IPL) 2008-2024 season. It provides actionable insights into team performance, player statistics like total matches, balls faced by the players, total runs and total of player dismissed from the matches and more that will be displayed in the form of tables, list, bar chart and pie chart with the help of **EDA(Exploratory Data Analysis).**
 <hr>
 
  # Dataset
